@@ -6,11 +6,11 @@ Teams were tasked with creating two distinct interface concepts (one for mobile,
 # Our Park Platform App:
 Our app is designed to centralize park information and enhance community engagement. It allows users to:
 
-Access details on all neighborhood parks in one place.
-Collaborate by sharing insights and updates.
-Filter parks based on specific preferences.
-View user ratings and reviews to find the best parks.
-Report safety or maintenance issues to keep parks safe and well-maintained.
+•Access details on all neighborhood parks in one place.
+•Collaborate by sharing insights and updates.
+•Filter parks based on specific preferences.
+•View user ratings and reviews to find the best parks.
+•Report safety or maintenance issues to keep parks safe and well-maintained.
 
 # Importance of the Selected Tasks
 A GPS-oriented, filterable search was prioritized to help users quickly find local parks that meet their needs. However, to foster community engagement, we added features such as favorites and issue reporting, ensuring users can track preferred parks and notify others of concerns.
