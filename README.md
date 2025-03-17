@@ -1,7 +1,7 @@
 # Park-Platform-Design-Challenge
 
 # What is the Park Platform Design Challenge?:
-Teams were tasked with creating two distinct interface concepts (one for mobile, one for web) for a neighborhood park information-sharing platform. The goal is to address the lack of a centralized park resource by designing user-friendly interfaces that support key tasks like searching for parks, viewing ratings, reporting safety issues, and finding events.
+Teams were tasked with creating two distinct interface concepts (one for mobile, one for web) as well as one prototype for a neighborhood park information-sharing platform. The goal is to address the lack of a centralized park resource by designing user-friendly interfaces that support key tasks like searching for parks, viewing ratings, reporting safety issues, and finding events.
 
 # Our Park Platform App:
 Our app is designed to centralize park information and enhance community engagement. It allows users to:
