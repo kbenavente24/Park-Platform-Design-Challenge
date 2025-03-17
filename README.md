@@ -1,6 +1,7 @@
 # Park-Platform-Design-Challenge
-COURSE: TCSS 496A
-GROUP MEMBERS: Alexander Pham, Alexander Petrik, Seth Campbell, Kobe Benavente, Benjamin Petrik, Mustafa Abdi
+Course: TCSS 496A
+
+Group Members: Alexander Pham, Alexander Petrik, Seth Campbell, Kobe Benavente, Benjamin Petrik, Mustafa Abdi
 
 # What is the Park Platform Design Challenge?:
 Teams were tasked with creating two distinct interface concepts (one for mobile, one for web) as well as one prototype for a neighborhood park information-sharing platform. The goal is to address the lack of a centralized park resource by designing user-friendly interfaces that support key tasks like searching for parks, viewing ratings, reporting safety issues, and finding events.
