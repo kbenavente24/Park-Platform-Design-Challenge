@@ -10,9 +10,13 @@ Teams were tasked with creating two distinct interface concepts (one for mobile,
 Our app is designed to centralize park information and enhance community engagement. It allows users to:
 
 •Access details on all neighborhood parks in one place.
+
 •Collaborate by sharing insights and updates.
+
 •Filter parks based on specific preferences.
+
 •View user ratings and reviews to find the best parks.
+
 •Report safety or maintenance issues to keep parks safe and well-maintained.
 
 # Importance of the Selected Tasks
